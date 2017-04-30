@@ -14,3 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+演示地址: <http://stevenzwzhai.github.io/city-select/demo2/>
